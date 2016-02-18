@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=namaBerkasAsal\ namaBerkasSasaran
+comment0.target=void\ kopi(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Fungsi\ untuk\ mengkopi\ isi\ suatu\ berkas\ ke\ berkas\ yang\ lain.\r\n\r\n\ Parameter\:\r\n\ \ \ namaBerkasAsal\ \=\ Nama\ berkas\ yang\ akan\ dikopi\r\n\ \ \ namaBerkasSasaran\ \=\ Nama\ berkas\ yang\ akan\ dihasilkan\r\n\ \r\n\ PERHATIKAN\:\ Jika\ namaBerkasSasaran\ sudah\ ada\ maka\ akan\ ditimpa\!\r\n
+numComments=1
