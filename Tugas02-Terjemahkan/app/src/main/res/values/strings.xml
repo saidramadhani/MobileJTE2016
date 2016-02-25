@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas02-Terjemahkan</string>
+    <string name="TulisanInggris">Hello world</string>
+    <string name="TulisanIndonesia">Halo Dunia</string>
+    <string name="TulisanAceh">Kiban Donya</string>
+    <string name="TombolInggris">Translate To English</string>
+    <string name="TombolIndonesia">Terjemahkan Ke Indonesia</string>
+    <string name="TombolAceh">Ubah keu Bahasa Aceh</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
